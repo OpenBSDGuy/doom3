@@ -42,7 +42,7 @@ $ ./patch
 Once the script is executed, you should see an output like this:
 
 ```bash
-
+All done! All weapon scripts patched. Launch dhewm3.
 ```
 
 ## Run the game
