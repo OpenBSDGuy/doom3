@@ -1,4 +1,4 @@
-# Doom3
+# Doom 3
 
 ## Installation
 
